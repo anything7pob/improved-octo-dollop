@@ -1,1 +1,1 @@
-web: python MyTwitterBot.py
+web: python my_awsom_bot/MyTwitterBot.py
