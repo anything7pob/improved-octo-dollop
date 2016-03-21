@@ -1,1 +1,1 @@
-web: gunicorn my_awesom_bot/MyTwitterBot.py --log-file -
+web: python MyTwitterBot.py
